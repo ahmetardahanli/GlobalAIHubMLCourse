@@ -1,7 +1,7 @@
 # GlobalAIHubMLCourse
  ![](img/logo.png)
 
-**Course Date:04.01.2021-08.01.2021**
+**Course Date:** 04.01.2021-08.01.2021
 
 **Name:** Ahmet
 
